@@ -1,4 +1,4 @@
-const { PlayerModel } = require("../models/players.model")
+const { PlayerModel } = require('../models/players.model')
 const bcrypt = require('bcrypt')
 const jwt = require('jsonwebtoken')
 
